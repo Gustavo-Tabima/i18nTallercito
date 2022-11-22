@@ -6,6 +6,7 @@ import JobsList from "./components/jobslist";
 
 ReactDOM.render(
         <IntlProvider locale="en" >
+                
                 <JobsList/>
         </IntlProvider>, document.getElementById("root")
 );

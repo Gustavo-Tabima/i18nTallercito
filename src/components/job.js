@@ -4,6 +4,7 @@ import {FormattedMessage,FormattedNumber,FormattedPlural} from 'react-intl';
 const Job = (props) => {
   return (
     <tr>
+      
       <th scope="row">{props.offer.id}</th>
       <td>{props.offer.name}</td>
       <td>{props.offer.company}</td>

@@ -10,7 +10,7 @@ const JobsList = () => {
       salary: 4.5,
       city: "Bogotá, Colombia",
       date: "2019-03-26",
-      visits: "150"
+      visits: "50"
     },
     {
       id: "0002",
@@ -19,7 +19,7 @@ const JobsList = () => {
       salary: 20,
       city: "Palo Alto, CA, USA",
       date: "2019-03-27",
-      visits: "230000"
+      visits: "30290000"
     },
     {
       id: "0003",
@@ -28,7 +28,7 @@ const JobsList = () => {
       salary: 1,
       city: "Cali, Colombia",
       date: "2019-03-28",
-      visits: "3200"
+      visits: "90500"
     },
   ]);
 
